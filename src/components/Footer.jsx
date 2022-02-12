@@ -84,9 +84,9 @@ const Footer = () => (
     <Left>
       <Logo>MERVA.</Logo>
       <Desc>
-        There are many variations of passages of Lorem Ipsum available, but
-        the majority have suffered alteration in some form, by injected
-        humour, or randomised words which don’t look even slightly believable.
+        There are many variations of passages of Lorem Ipsum available, but the
+        majority have suffered alteration in some form, by injected humour, or
+        randomised words which don’t look even slightly believable.
       </Desc>
       <SocialContainer>
         <SocialIcon color="3B5999">
@@ -122,18 +122,15 @@ const Footer = () => (
       <Title>Contact</Title>
       <ContactItem>
         <Room style={{ marginRight: '10px' }} />
-        {' '}
         622 Dixie Path , South
         Tobinchester 98336
       </ContactItem>
       <ContactItem>
         <Phone style={{ marginRight: '10px' }} />
-        {' '}
         +243858589823
       </ContactItem>
       <ContactItem>
         <MailOutline style={{ marginRight: '10px' }} />
-        {' '}
         mervashop@gmail.com
       </ContactItem>
       <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
